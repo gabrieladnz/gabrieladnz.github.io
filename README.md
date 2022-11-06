@@ -1,2 +1,2 @@
-# gabrieladnz/gabrieladnz.github.io
+# gabrieladnz.github.io
 Portfólio pessoal.
