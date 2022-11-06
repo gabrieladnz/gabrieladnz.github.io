@@ -1,2 +1,2 @@
-# portfolio-git
+# gabrieladnz/gabrieladnz.github.io
 Portfólio pessoal.
