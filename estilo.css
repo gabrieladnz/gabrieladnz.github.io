@@ -90,7 +90,7 @@ h3{
 }
 
 .background-color-Sobre img{
-    width: 430px;
+    width: 440px;
     height: auto;
 }
 
@@ -138,11 +138,6 @@ h3{
     
 }
 
-.background-color-habilidade img{
-    width: 430px;
-    height: auto;
-}
-
 .Text-habilidade{
     width: 550px;
   }
@@ -178,9 +173,9 @@ h3{
     margin-bottom: 45px;
 }
 
+/* Botões skills */
 .Skills{
     display: flex;
-    
 }
 
 .Skills a{
@@ -223,6 +218,47 @@ button:hover{
     cursor: pointer;
 }
 */
+
+/* PROJETOS PESSOAIS */
+.background-color-projeto{
+    background-color: #141414;
+    width: 100%;
+    padding: 100px 0px;
+    
+}
+
+.background-color-projeto img{
+    width: 430px;
+    height: auto;
+}
+
+.Text-projeto {
+    width: 550px;
+  }
+
+.main-projeto {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   width: 1130px;
+   margin: 0 auto;
+}
+
+.Text-projeto h2{
+    color: #fff;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+
+.Text-projeto p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
 
 footer{
     position: relative;
